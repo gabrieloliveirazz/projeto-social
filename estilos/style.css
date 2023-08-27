@@ -27,7 +27,7 @@ main {
 }
 
 section#telefone {
-    margin: auto;
+    margin: -30px;
     position: absolute;
     top: 0%;
     left: 40%;
